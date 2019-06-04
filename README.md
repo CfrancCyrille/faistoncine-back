@@ -2,7 +2,7 @@
 Faistoncine Springboot back office
 
 ## Required
-A MySQL database ```faistoncine``` at : localhost:3306
+A MySQL 5.7 database ```faistoncine``` at : localhost:3306
 See settup : [application.properties](./src/main/resources/application.properties)
 
 ## Usage
