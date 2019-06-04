@@ -7,5 +7,6 @@ See settup : [application.properties](./src/main/resources/application.propertie
 
 ## Usage
 - Install dependencies : `./mvnw install`
-- Build : `./mvnw build`
-- Run : `./mvnw spring-boot:run`
+- Build back-office : `./mvnw build`
+- Run back-office : `./mvnw spring-boot:run`
+- Clean generated files : `./mvnw clean`
